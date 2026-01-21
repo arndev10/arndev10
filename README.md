@@ -5,7 +5,7 @@
 **PMP® Certified Project Manager | Full-Stack Developer | Python Automation Specialist**
 
 [![PMP Certified](https://img.shields.io/badge/PMP-Certified-orange?style=flat-square&logo=project-management-institute)](https://www.credly.com/users/arnold-torres-larriega/badges)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnoldtorresmpdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnoldtorrespmpdev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arnoldtorresla@gmail.com)
 
 *Transforming business requirements into technical solutions | Building MVPs that evolve into production-ready applications*
@@ -200,7 +200,7 @@ I'm always open to discussing:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnoldtorresmpdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnoldtorrespmpdev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnoldtorresla@gmail.com)
 [![Credly](https://img.shields.io/badge/Credly-Badges-FF6B6B?style=for-the-badge)](https://www.credly.com/users/arnold-torres-larriega/badges)
 
