@@ -35,7 +35,7 @@ I am in **constant evolution**: staying on top of new trends, upskilling every d
 | Python      | TypeScript   | PyTorch     | PMI / Agile         |
 | FastAPI     | Next.js      | Whisper     | Git / GitHub        |
 | SQLAlchemy  | React        | LLMs        | Jira / Notion       |
-| Flask       | TailwindCSS  |             |                     |
+| Flask       | TailwindCSS  |             | n8n                 |
 
 ---
 
