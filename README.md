@@ -4,7 +4,7 @@
 
 [![PMP Certified](https://img.shields.io/badge/PMP®-Certified-004085?style=flat&logo=project-management)](https://www.credly.com/users/arnold-torres)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/arndev10)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](#contact)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](#lets-connect)
 
 *Bridging project management, software development, and AI integration to deliver solutions that scale.*
 
@@ -115,7 +115,7 @@ Transcribes WhatsApp audios to text with local Whisper. Multi-format support, op
 
 ---
 
-## 🤝 Let's Connect {#contact}
+## 🤝 Let's Connect
 
 I'm open to:
 
