@@ -2,8 +2,8 @@
 
 **PMP® Certified Project Manager | Full-Stack Developer | AI Engineer**
 
-[![PMP Certified](https://img.shields.io/badge/PMP®-Certified-004085?style=flat&logo=project-management)](https://www.credly.com/users/arnold-torres)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/arndev10)
+[![PMP Certified](https://img.shields.io/badge/PMP®-Certified-004085?style=flat&logo=project-management)](https://www.credly.com/users/arnold-torres-larriega/edit#credly)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/arnoldtorrespmpdev/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](#lets-connect)
 
 *Bridging project management, software development, and AI integration to deliver solutions that scale.*
@@ -50,7 +50,7 @@ I am in **constant evolution**: staying on top of new trends, upskilling every d
 | **Generative AI with Large Language Models** | Google Cloud |
 | **10+ PMI micro-credentials** | AI, Agile, Automation, Business Continuity |
 
-[View all credentials →](https://www.credly.com/users/arnold-torres)
+[View all credentials →](https://www.credly.com/users/arnold-torres-larriega)
 
 ---
 
@@ -79,7 +79,7 @@ Converts PDF books into MP3s (~40 min per file) using local TTS. No APIs, no sub
 ### 🎤 WhatsApp Audio Transcriber
 **Local audio transcription** — *FastAPI · React · Whisper*
 
-Transcribes WhatsApp audios to text with local Whisper. Multi-format support, optional GPU (CUDA), privacy-first.
+Transcribes voice messages to text using local Whisper. Multi-format support (OGG, OPUS, MP3, WAV, M4A, FLAC), optional GPU (CUDA), and fully private processing.
 
 **Stack:** FastAPI, React 18, Vite, TailwindCSS, faster-whisper, PyTorch  
 **Repo:** [Transcribir-audios](https://github.com/arndev10/Transcribir-audios)
@@ -87,21 +87,27 @@ Transcribes WhatsApp audios to text with local Whisper. Multi-format support, op
 ---
 
 ### 🎵 Music.io v1
-**Music-related project** — *TypeScript*
+**Music discovery and playback** — *TypeScript*
+
+Web application for browsing, streaming, or managing music. Built with modern TypeScript and front-end tooling.
 
 **Repo:** [Music.io-v1](https://github.com/arndev10/Music.io-v1)
 
 ---
 
 ### 🌐 arndev10.github.io
-**Personal / portfolio site** — *TypeScript*
+**Personal portfolio** — *TypeScript*
+
+Portfolio and project showcase hosted on GitHub Pages. Presents profile, skills, and featured work in a single site.
 
 **Repo:** [arndev10.github.io](https://github.com/arndev10/arndev10.github.io)
 
 ---
 
 ### 📊 ESSAR-V1
-**Python project** — *Python*
+**Reporting and automation** — *Python*
+
+Python-based application for data processing, reporting, or workflow automation. Supports structured analysis and export.
 
 **Repo:** [ESSAR-V1](https://github.com/arndev10/ESSAR-V1)
 
@@ -123,7 +129,7 @@ I'm open to:
 - **Full-stack** and automation projects
 - **AI integration** and intelligent workflows
 
-**LinkedIn** · **Email** · **Credly**
+[LinkedIn](https://www.linkedin.com/in/arnoldtorrespmpdev/) · **Email** · [Credly](https://www.credly.com/users/arnold-torres-larriega)
 
 ---
 
