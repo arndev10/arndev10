@@ -89,8 +89,7 @@ Transcribes voice messages to text using local Whisper. Multi-format support (OG
 ### 🎵 Music.io v1
 **Music discovery and playback** — *TypeScript*
 
-Web application for browsing, streaming, or managing music. Built with modern TypeScript and front-end tooling.
-
+Educational web application to analyze scales based on selected notes. Designed for muscic students.
 **Repo:** [Music.io-v1](https://github.com/arndev10/Music.io-v1)
 
 ---
