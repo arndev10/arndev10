@@ -76,20 +76,26 @@ Converts PDF books into MP3s (~40 min per file) using local TTS. No APIs, no sub
 
 ---
 
-### 🎤 WhatsApp Audio Transcriber
-**Local audio transcription** — *FastAPI · React · Whisper*
+### 🎤 WhatsApp Audio Transcriber v2
+**Local audio transcription with cloud deployment** — *FastAPI · React · Whisper*
 
-Transcribes voice messages to text using local Whisper. Multi-format support (OGG, OPUS, MP3, WAV, M4A, FLAC), optional GPU (CUDA), and fully private processing.
+Transcribes voice messages to text using local Whisper. Multi-format support (OGG, OPUS, MP3, WAV, M4A, FLAC), optional GPU (CUDA), and fully private processing. Deployed on Render + Vercel.
 
 **Stack:** FastAPI, React 18, Vite, TailwindCSS, faster-whisper, PyTorch  
-**Repo:** [Transcribir-audios](https://github.com/arndev10/Transcribir-audios)
+**Repo:** [transcribir-audios-v2](https://github.com/arndev10/transcribir-audios-v2)
 
 ---
 
 ### 🎵 Music.io v1
-**Music discovery and playback** — *TypeScript*
+**Music theory & scale analyzer** — *React · TypeScript*
 
+<<<<<<< HEAD
 Educational web application to analyze scales based on selected notes. Designed for muscic students.
+=======
+Educational web app for analyzing scales from selected notes. Features chromatic note selection, top 3 probable scales with match %, circle of fifths, and harmonic function tables.
+
+**Stack:** React, TypeScript, Vite, TailwindCSS  
+>>>>>>> 11d3494 (docs: update project descriptions and link transcriber to v2)
 **Repo:** [Music.io-v1](https://github.com/arndev10/Music.io-v1)
 
 ---
@@ -104,10 +110,11 @@ Portfolio and project showcase hosted on GitHub Pages. Presents profile, skills,
 ---
 
 ### 📊 ESSAR-V1
-**Reporting and automation** — *Python*
+**Excel report generator** — *Python*
 
-Python-based application for data processing, reporting, or workflow automation. Supports structured analysis and export.
+Desktop application that generates Excel files from a template and input data. Includes a GUI built with Tkinter, packaged as a standalone .exe via PyInstaller.
 
+**Stack:** Python, pandas, openpyxl, PyInstaller  
 **Repo:** [ESSAR-V1](https://github.com/arndev10/ESSAR-V1)
 
 ---
