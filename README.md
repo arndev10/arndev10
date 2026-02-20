@@ -89,13 +89,9 @@ Transcribes voice messages to text using local Whisper. Multi-format support (OG
 ### 🎵 Music.io v1
 **Music theory & scale analyzer** — *React · TypeScript*
 
-<<<<<<< HEAD
-Educational web application to analyze scales based on selected notes. Designed for muscic students.
-=======
 Educational web app for analyzing scales from selected notes. Features chromatic note selection, top 3 probable scales with match %, circle of fifths, and harmonic function tables.
 
 **Stack:** React, TypeScript, Vite, TailwindCSS  
->>>>>>> 11d3494 (docs: update project descriptions and link transcriber to v2)
 **Repo:** [Music.io-v1](https://github.com/arndev10/Music.io-v1)
 
 ---
