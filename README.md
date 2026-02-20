@@ -2,7 +2,7 @@
 
 **PMP® Certified Project Manager | Full-Stack Developer | AI Engineer**
 
-[![PMP Certified](https://img.shields.io/badge/PMP®-Certified-004085?style=flat&logo=project-management)](https://www.credly.com/users/arnold-torres-larriega/edit#credly)
+[![PMP Certified](https://img.shields.io/badge/PMP®-Certified-004085?style=flat&logo=project-management)](https://www.credly.com/users/arnold-torres-larriega)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/arnoldtorrespmpdev/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](#lets-connect)
 
