@@ -56,6 +56,16 @@ I am in **constant evolution**: staying on top of new trends, upskilling every d
 
 ## 💼 Featured Projects
 
+### 🤖 PM AI Engine
+**AI-powered project management engine** — *Next.js · Supabase · OpenAI*
+
+SaaS tool for uploading contracts, SoWs, or RFPs, extracting structured project context, and generating PMBOK® 8-aligned artefacts (Project Charter, Risk Register, Stakeholder Register, WBS/Backlog). Supports inline editing, export to Word/PDF, and Supabase-backed storage.
+
+**Stack:** Next.js 14, React 18, TypeScript, Tailwind CSS, Supabase, OpenAI, docx, pdfkit  
+**Repo:** [PM-AI-ENGINE](https://github.com/arndev10/PM-AI-ENGINE)
+
+---
+
 ### 🏋️ Control Fit App v1
 **Full-stack fitness tracking** — *FastAPI · Next.js · TypeScript*
 
