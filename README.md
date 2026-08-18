@@ -76,11 +76,6 @@ Beyond the public repos below, most of my recent work is production AI systems f
 | Project | What it does | Stack |
 |---|---|---|
 | [PM-AI-ENGINE](https://github.com/arndev10/PM-AI-ENGINE) | Generates PMBOK® artefacts from contracts and RFPs | Next.js · Supabase · LLMs |
-| [editor-io](https://github.com/arndev10/editor-io-public) | Local pipeline: long video → transcribed, highlight-detected, face-tracked, subtitled vertical clips | Python · Whisper · ffmpeg |
-| [FIS.IO](https://github.com/arndev10/fis-io) | Voice-in companion agent for chronic low-back pain, deterministic safety triage ahead of the LLM | FastAPI · Whisper · Postgres |
-| [chad-bot](https://github.com/arndev10/chad-bot-public) | Shared-memory dog-training agent for a family, over Telegram | Python · Postgres · Telegram API |
-| [NutrinAI](https://github.com/arndev10/nutrinai-public) | Plain-language nutrition logging over Telegram | n8n · Postgres |
-| [arnailab-rag](https://github.com/arndev10/arnailab-rag-public) | Text-based RAG chat assistant with tool-based lead capture | FastAPI · Postgres |
 | [transcribir-audios-v2](https://github.com/arndev10/transcribir-audios-v2) | Local audio transcription, GPU-accelerated | FastAPI · React · Whisper |
 | [arndev10.github.io](https://github.com/arndev10/arndev10.github.io) | Personal portfolio | TypeScript |
 
