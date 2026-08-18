@@ -76,12 +76,12 @@ Beyond the public repos below, most of my recent work is production AI systems f
 | Project | What it does | Stack |
 |---|---|---|
 | [PM-AI-ENGINE](https://github.com/arndev10/PM-AI-ENGINE) | Generates PMBOK® artefacts from contracts and RFPs | Next.js · Supabase · LLMs |
-| [Scraper.ai](https://github.com/arndev10/Scraper.ai) | Lead scraping and enrichment pipeline | Python |
-| [transcribir-audios-v2](https://github.com/arndev10/transcribir-audios-v2) | Private local audio transcription, GPU-accelerated | FastAPI · React · Whisper |
-| [Control-fit-app-v1](https://github.com/arndev10/Control-fit-app-v1) | Fitness tracking with AI weekly feedback | FastAPI · Next.js · TS |
-| [Music.io-v1](https://github.com/arndev10/Music.io-v1) | Musical scale analyzer and harmony tables | React · TypeScript |
-| [PDF-a-MP3](https://github.com/arndev10/PDF-a-MP3-Conversor-de-Libros) | Offline book-to-audio converter, no APIs | Python · Flask · TTS |
-| [ESSAR-V1](https://github.com/arndev10/ESSAR-V1) | Desktop Excel report generator | Python · pandas · Tkinter |
+| [editor-io](https://github.com/arndev10/editor-io-public) | Local pipeline: long video → transcribed, highlight-detected, face-tracked, subtitled vertical clips | Python · Whisper · ffmpeg |
+| [FIS.IO](https://github.com/arndev10/fis-io) | Voice-in companion agent for chronic low-back pain, deterministic safety triage ahead of the LLM | FastAPI · Whisper · Postgres |
+| [chad-bot](https://github.com/arndev10/chad-bot-public) | Shared-memory dog-training agent for a family, over Telegram | Python · Postgres · Telegram API |
+| [NutrinAI](https://github.com/arndev10/nutrinai-public) | Plain-language nutrition logging over Telegram | n8n · Postgres |
+| [arnailab-rag](https://github.com/arndev10/arnailab-rag-public) | Text-based RAG chat assistant with tool-based lead capture | FastAPI · Postgres |
+| [transcribir-audios-v2](https://github.com/arndev10/transcribir-audios-v2) | Local audio transcription, GPU-accelerated | FastAPI · React · Whisper |
 | [arndev10.github.io](https://github.com/arndev10/arndev10.github.io) | Personal portfolio | TypeScript |
 
 ---
