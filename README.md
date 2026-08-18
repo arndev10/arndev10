@@ -35,6 +35,8 @@ Lima, Peru — building AI automation for businesses.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
@@ -42,6 +44,18 @@ Lima, Peru — building AI automation for businesses.
 ### Background
 
 6+ years delivering IT, telecom and software projects — biomedical equipment, US freight logistics, and 5G network engineering for Huawei, Claro, Entel, Telefónica and Starlink. Led up to 7 concurrent projects; cut operational processing time by 99.5% through automation. Now full-time on AI engineering and process automation.
+
+---
+
+### What I build
+
+Beyond the public repos below, most of my recent work is production AI systems for clients and personal ventures — kept private, but the capabilities generalize:
+
+- **RAG chatbots for lead generation** — voice-cloned, retrieval-grounded assistants embedded in client websites, with a leads dashboard behind auth.
+- **Domain-specific LLM agents on messaging platforms** — Telegram/WhatsApp bots backed by curated knowledge corpora (not naive embeddings), with deterministic safety triage (e.g. flagging medical/urgent cases) running before any LLM call.
+- **Video processing pipelines** — automated transcription, highlight detection, face-tracking reframing (portrait/landscape), karaoke-style subtitles, and silence trimming to turn long-form video into short-form clips.
+- **End-to-end VPS deployment & ops** — Docker/Easypanel, Postgres, Cloudflare DNS, webhook auth, scheduled backups via n8n.
+- **Multi-user shared-state agents** — systems where several people interact with one shared entity/profile (not one conversation per user), with unified memory across all participants.
 
 ---
 
