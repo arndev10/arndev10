@@ -1,11 +1,11 @@
 # Arnold Torres Larriega
 
-**AI Engineer · Full-Stack Developer · PMP® Certified Project Manager**
-Lima, Peru — building AI automation for businesses.
+**Industrial Engineer · PMP® · Founder of [ARNAI LAB](https://www.arnailab.com)**
+Lima, Peru. ARNAI LAB is an applied-AI lab: 24/7 customer-service agents, assistants over your documents, custom dashboards and automations, and AI integrated with engineering software (Revit and DIALux). 6+ years leading technical projects end to end.
 
+[![ARNAI LAB](https://img.shields.io/badge/arnailab.com-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://www.arnailab.com)
+[![YouTube](https://img.shields.io/badge/YouTube-ARNAI_LAB-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ARNAI-LAB)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnoldtorrespmpdev/)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/arnold-torres-larriega)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=github&logoColor=white)](https://arndev10.github.io)
 
 ---
 
@@ -51,7 +51,7 @@ Lima, Peru — building AI automation for businesses.
 
 Beyond the public repos below, most of my recent work is production AI systems for clients and personal ventures — kept private, but the capabilities generalize:
 
-- **RAG chatbots for lead generation** — voice-cloned, retrieval-grounded assistants embedded in client websites, with a leads dashboard behind auth.
+- **RAG assistants for lead generation** — voice-cloned, retrieval-grounded assistants embedded in client websites, with a leads dashboard behind auth.
 - **Domain-specific LLM agents on messaging platforms** — Telegram/WhatsApp bots backed by curated knowledge corpora (not naive embeddings), with deterministic safety triage (e.g. flagging medical/urgent cases) running before any LLM call.
 - **Video processing pipelines** — automated transcription, highlight detection, face-tracking reframing (portrait/landscape), karaoke-style subtitles, and silence trimming to turn long-form video into short-form clips.
 - **End-to-end VPS deployment & ops** — Docker/Easypanel, Postgres, Cloudflare DNS, webhook auth, scheduled backups via n8n.
